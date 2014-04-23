@@ -1,0 +1,64 @@
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\CameraFundamentals.exe
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\CameraFundamentals.pdb
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\MainWindow.baml
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\MainWindow.g.cs
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\App.g.cs
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals_MarkupCompile.cache
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.g.resources
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.Properties.Resources.resources
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.exe
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.pdb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.exe
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.pdb
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\CameraFundamentals.exe
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\CameraFundamentals.pdb
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\MainWindow.baml
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\App.g.cs
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals_MarkupCompile.cache
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.g.resources
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.Properties.Resources.resources
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.exe
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.pdb
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.exe
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.pdb
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\CameraFundamentals.exe
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\CameraFundamentals.pdb
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\MainWindow.baml
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\MainWindow.g.cs
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\App.g.cs
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals_MarkupCompile.cache
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.g.resources
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.Properties.Resources.resources
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Source\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.exe
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Source\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.pdb
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Source\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.csprojResolveAssemblyReference.cache
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Source\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\MainWindow.baml
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Source\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\MainWindow.g.cs
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Source\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\App.g.cs
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Source\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals_MarkupCompile.cache
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Source\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.g.resources
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Source\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.Properties.Resources.resources
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Source\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.csproj.GenerateResource.Cache
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Source\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\CameraFundamentals.exe
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Source\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\CameraFundamentals.pdb
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Source\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Source\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Source\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Kinect.Toolbox.dll
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Source\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Source\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Kinect.Toolbox.pdb

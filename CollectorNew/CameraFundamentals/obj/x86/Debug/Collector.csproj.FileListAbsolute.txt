@@ -1,0 +1,5 @@
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\CollectorNew\CameraFundamentals\obj\x86\Debug\CameraFundamentals.exe
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\CollectorNew\CameraFundamentals\obj\x86\Debug\CameraFundamentals.pdb
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\CollectorNew\CameraFundamentals\obj\x86\Debug\Collector.csprojResolveAssemblyReference.cache
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\CollectorNew\CameraFundamentals\obj\x86\Debug\App.g.cs
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\CollectorNew\CameraFundamentals\obj\x86\Debug\CameraFundamentals_MarkupCompile.cache

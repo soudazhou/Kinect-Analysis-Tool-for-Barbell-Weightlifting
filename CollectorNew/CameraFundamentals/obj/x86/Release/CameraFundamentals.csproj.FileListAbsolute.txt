@@ -1,0 +1,60 @@
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Release\CameraFundamentals.exe
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Release\CameraFundamentals.pdb
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Release\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\MainWindow.baml
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\MainWindow.g.cs
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\App.g.cs
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals_MarkupCompile.cache
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.g.resources
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.Properties.Resources.resources
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.exe
+C:\Users\danielfe\Desktop\Kinect\Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.pdb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Release\CameraFundamentals.exe
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Release\CameraFundamentals.pdb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Release\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\MainWindow.baml
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\MainWindow.g.cs
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\App.g.cs
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals_MarkupCompile.cache
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.g.resources
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.Properties.Resources.resources
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.exe
+C:\Users\danielfe\Desktop\Work Files\Projects\KinectSDK\v1Quickstarts\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.pdb
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.exe
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.pdb
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Release\CameraFundamentals.exe
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Release\CameraFundamentals.pdb
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Release\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\MainWindow.baml
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\MainWindow.g.cs
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\App.g.cs
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals_MarkupCompile.cache
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.g.resources
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.Properties.Resources.resources
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Dan\Desktop\live download\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Release\CameraFundamentals.exe
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Release\CameraFundamentals.pdb
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Release\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\MainWindow.baml
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\MainWindow.g.cs
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\App.g.cs
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals_MarkupCompile.cache
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.g.resources
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.Properties.Resources.resources
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.exe
+C:\Users\danielfe\Desktop\v1\KinectforWindowsSDKV1\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Release\CameraFundamentals.pdb

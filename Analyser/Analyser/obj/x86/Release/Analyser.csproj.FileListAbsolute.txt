@@ -1,0 +1,16 @@
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\bin\Release\Analyser.exe.manifest
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\bin\Release\Analyser.application
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\bin\Release\Analyser.exe
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\bin\Release\Analyser.pdb
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Release\MainWindow.baml
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Release\MainWindow.g.cs
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Release\App.g.cs
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Release\Analyser_MarkupCompile.cache
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Release\Analyser.g.resources
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Release\Analyser.Properties.Resources.resources
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Release\Analyser.csproj.GenerateResource.Cache
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Release\Analyser.exe.manifest
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Release\Analyser.application
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Release\Analyser.exe
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Release\Analyser.pdb
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Release\Analyser.csprojResolveAssemblyReference.cache

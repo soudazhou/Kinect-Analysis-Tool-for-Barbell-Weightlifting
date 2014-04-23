@@ -1,0 +1,28 @@
+c:\users\wenxuanzhou\documents\visual studio 2010\Projects\Analyser\Analyser\bin\Debug\Analyser.exe
+c:\users\wenxuanzhou\documents\visual studio 2010\Projects\Analyser\Analyser\bin\Debug\Analyser.pdb
+c:\users\wenxuanzhou\documents\visual studio 2010\Projects\Analyser\Analyser\obj\x86\Debug\MainWindow.baml
+c:\users\wenxuanzhou\documents\visual studio 2010\Projects\Analyser\Analyser\obj\x86\Debug\MainWindow.g.cs
+c:\users\wenxuanzhou\documents\visual studio 2010\Projects\Analyser\Analyser\obj\x86\Debug\App.g.cs
+c:\users\wenxuanzhou\documents\visual studio 2010\Projects\Analyser\Analyser\obj\x86\Debug\Analyser_MarkupCompile.cache
+c:\users\wenxuanzhou\documents\visual studio 2010\Projects\Analyser\Analyser\obj\x86\Debug\Analyser.g.resources
+c:\users\wenxuanzhou\documents\visual studio 2010\Projects\Analyser\Analyser\obj\x86\Debug\Analyser.Properties.Resources.resources
+c:\users\wenxuanzhou\documents\visual studio 2010\Projects\Analyser\Analyser\obj\x86\Debug\Analyser.csproj.GenerateResource.Cache
+c:\users\wenxuanzhou\documents\visual studio 2010\Projects\Analyser\Analyser\obj\x86\Debug\Analyser.exe
+c:\users\wenxuanzhou\documents\visual studio 2010\Projects\Analyser\Analyser\obj\x86\Debug\Analyser.pdb
+C:\Users\WenxuanZhou\documents\visual studio 2010\Projects\Analyser\Analyser\obj\x86\Debug\Analyser.csprojResolveAssemblyReference.cache
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Debug\Analyser.exe
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Debug\Analyser.pdb
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\bin\Debug\Analyser.exe
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\bin\Debug\Analyser.pdb
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Debug\Analyser.csprojResolveAssemblyReference.cache
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Debug\MainWindow.baml
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Debug\MainWindow.g.cs
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Debug\App.g.cs
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Debug\Analyser_MarkupCompile.cache
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Debug\Analyser.g.resources
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Debug\Analyser.Properties.Resources.resources
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Debug\Analyser.csproj.GenerateResource.Cache
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\bin\Debug\Analyser.exe.manifest
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\bin\Debug\Analyser.application
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Debug\Analyser.exe.manifest
+E:\Google 云端硬盘\Video Analysis Tool for Barbell Weightlifting\Backup Source\20130221\Analyser\Analyser\obj\x86\Debug\Analyser.application

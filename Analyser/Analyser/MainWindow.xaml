@@ -1,0 +1,51 @@
+﻿<Window x:Class="Analyser.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="VATFBW - Analyser" Height="900" Width="1894">
+    <Grid>
+        <Button Content="Play" Height="30" HorizontalAlignment="Left" Margin="12,326,0,0" Name="btnPlay1" VerticalAlignment="Top" Width="49" Click="Playvideo1_Click" />
+        <Button Content="Pause" Height="30" HorizontalAlignment="Left" Margin="67,326,0,0" Name="button1" VerticalAlignment="Top" Width="49" Click="Pause1_Click" />
+        <Button Content="Stop" Height="30" HorizontalAlignment="Left" Margin="122,326,0,0" Name="button2" VerticalAlignment="Top" Width="49" Click="Stop1_Click" />
+        <Button Content="Play both" Height="30" HorizontalAlignment="Left" Margin="392,326,0,0" Name="button3" VerticalAlignment="Top" Width="88" Click="Playboth_Click" />
+        <Button Content="Pause both" Height="30" HorizontalAlignment="Left" Margin="831,326,0,0" Name="button4" VerticalAlignment="Top" Width="82" Click="Pauseboth_Click" />
+        <Slider Height="27" HorizontalAlignment="Left" Margin="12,443,0,0" Name="timelineSlider1" VerticalAlignment="Top" Width="580" ValueChanged="timelineSlider1_ValueChanged" PreviewMouseUp="timelineSlider1_PreviewMouseUp" PreviewMouseDown="timelineSlider1_PreviewMouseDown" />
+        <Slider Height="27" HorizontalAlignment="Left" Margin="12,476,0,0" Name="timelineSlider2" VerticalAlignment="Top" Width="580" ValueChanged="timelineSlider2_ValueChanged" PreviewMouseDown="timelineSlider2_PreviewMouseDown" PreviewMouseUp="timelineSlider2_PreviewMouseUp" />
+        <Button Content="Load Video" Height="30" HorizontalAlignment="Left" Margin="177,326,0,0" Name="button8" VerticalAlignment="Top" Width="88" Click="BrowseVideo1_Click" />
+        <Button Content="Load Datafile" Height="30" HorizontalAlignment="Left" Margin="271,326,0,0" Name="button9" VerticalAlignment="Top" Width="88" Click="LoadData1_Click" />
+        <Label Content="Video file Directory" HorizontalAlignment="Left" Margin="12,362,0,479" Name="Videodirectory1" Width="646" />
+        <Label Content="Data file Directory" HorizontalAlignment="Left" Margin="14,390,0,447" Name="datadirectory1" Width="620" />
+        <Button Content="Auto &#xD;&#xA;align&#xD;&#xA;two&#xD;&#xA;videos" Height="143" HorizontalAlignment="Left" Margin="1264,546,0,0" Name="auto_align" VerticalAlignment="Top" Width="63" Click="auto_align_Click" />
+        <Button Content="Play" Height="30" HorizontalAlignment="Left" Margin="950,326,0,0" Name="button5" VerticalAlignment="Top" Width="49" Click="Playvideo2_Click" />
+        <Button Content="Pause" Height="30" HorizontalAlignment="Left" Margin="1005,326,0,0" Name="button6" VerticalAlignment="Top" Width="49" Click="Pause2_Click" />
+        <Button Content="Stop" Height="30" HorizontalAlignment="Left" Margin="1060,326,0,0" Name="button7" VerticalAlignment="Top" Width="49" Click="Stop2_Click" />
+        <Button Content="Load Video" Height="30" HorizontalAlignment="Left" Margin="1115,326,0,0" Name="button10" VerticalAlignment="Top" Width="88" Click="BrowseVideo2_Click" />
+        <Button Content="Load Datafile" Height="30" HorizontalAlignment="Left" Margin="1211,326,0,0" Name="button11" VerticalAlignment="Top" Width="88" Click="LoadData2_Click" />
+        <Label Content="Video file Directory" HorizontalAlignment="Left" Margin="834,362,0,313" Name="Videodirectory2" Width="468" />
+        <TextBlock HorizontalAlignment="Left" Margin="629,442,0,0" x:Name="timetxt1" Width="184" Height="28" VerticalAlignment="Top" ><Run Language="zh-cn" Text="CurrentTime"/></TextBlock>
+        <TextBlock Height="26" HorizontalAlignment="Left" Margin="629,476,0,0" x:Name="timetxt2" VerticalAlignment="Top" Width="184" ><Run Language="zh-cn" Text="CurrentTime"/></TextBlock>
+        <TextBlock Height="28" HorizontalAlignment="Left" Margin="829,441,0,0" x:Name="totalTimetxt1" VerticalAlignment="Top" Width="177" ><Run Language="zh-cn" Text="TotalTime"/></TextBlock>
+        <TextBlock Height="28" HorizontalAlignment="Left" Margin="829,469,0,0" x:Name="totalTimetxt2" VerticalAlignment="Top" Width="177" ><Run Language="zh-cn" Text="TotalTime"/></TextBlock>
+        <Label Content="Data file Directory&#xD;&#xA;" HorizontalAlignment="Left" Margin="834,390,0,300" Name="datadirectory2" Width="468" />
+        <TextBlock Height="31" HorizontalAlignment="Left" Margin="14,510,0,0" x:Name="V1Name" VerticalAlignment="Top" Width="313" FontSize="18" Text="Lift Name:" />
+        <TextBlock Height="31" HorizontalAlignment="Left" Margin="14,546,0,0" x:Name="V1CurrentFrame" VerticalAlignment="Top" Width="466" FontSize="18" Text="CurrentFrame = " />
+        <TextBlock Height="31" HorizontalAlignment="Left" Margin="18,577,0,0" x:Name="V1HipAngle" VerticalAlignment="Top" Width="462" FontSize="18" Text="HipAngle = " />
+        <TextBlock Height="31" HorizontalAlignment="Left" Margin="12,608,0,0" x:Name="V1ShoulderAngle" VerticalAlignment="Top" Width="462" FontSize="18" Text="ShoulderAngle = " />
+        <TextBlock Height="31" HorizontalAlignment="Left" Margin="18,639,0,0" x:Name="V1KneeAngle" VerticalAlignment="Top" Width="462" FontSize="18" Text="KneeAngle = " />
+        <TextBlock Height="31" HorizontalAlignment="Left" Margin="18,670,0,0" x:Name="V1HeadHeight" VerticalAlignment="Top" Width="462" FontSize="18" Text="HeadHeight = " />
+        <TextBlock Height="31" HorizontalAlignment="Left" Margin="834,510,0,0" x:Name="V2Name" VerticalAlignment="Top" Width="430" FontSize="18" Text="Lift Name:" />
+        <TextBlock Height="31" HorizontalAlignment="Left" Margin="834,546,0,0" x:Name="V2CurrentFrame" VerticalAlignment="Top" Width="430" FontSize="18" Text="CurrentFrame = " />
+        <TextBlock Height="31" HorizontalAlignment="Left" Margin="834,577,0,0" x:Name="V2HipAngle" VerticalAlignment="Top" Width="430" FontSize="18" Text="HipAngle = " />
+        <TextBlock Height="31" HorizontalAlignment="Left" Margin="829,608,0,0" x:Name="V2ShoulderAngle" VerticalAlignment="Top" Width="430" FontSize="18" Text="ShoulderAngle = " />
+        <TextBlock Height="31" HorizontalAlignment="Left" Margin="834,639,0,0" x:Name="V2KneeAngle" VerticalAlignment="Top" Width="430" FontSize="18" Text="KneeAngle = " />
+        <TextBlock Height="31" HorizontalAlignment="Left" Margin="834,670,0,0" x:Name="V2HeadHeight" VerticalAlignment="Top" Width="430" FontSize="18" Text="HeadHeight = " />
+        <Canvas HorizontalAlignment="Left" Height="240" Margin="485,10,0,0" VerticalAlignment="Top" Width="320" x:Name="sCanvas1" ClipToBounds="true"/>
+        <Canvas HorizontalAlignment="Left" Height="240" Margin="1211,10,0,0" VerticalAlignment="Top" Width="320" x:Name="sCanvas2" ClipToBounds="true"/>
+        <Canvas HorizontalAlignment="Left" Height="320" VerticalAlignment="Top" Width="480" x:Name="sCanvas1_window" ClipToBounds="true">
+            <MediaElement Height="320" HorizontalAlignment="Left" x:Name="mediaElement1" VerticalAlignment="Top" Width="480" LoadedBehavior="Manual" UnloadedBehavior="Stop" MediaOpened="mediaElement1_MediaOpened" Canvas.Left="10" />
+        </Canvas>
+        <Canvas HorizontalAlignment="Left" Height="320" VerticalAlignment="Top" Width="480" x:Name="sCanvas2_window" ClipToBounds="true" Margin="723,6,0,0">
+            <MediaElement Height="320" HorizontalAlignment="Left" x:Name="mediaElement2" VerticalAlignment="Top" Width="480" LoadedBehavior="Manual" UnloadedBehavior="Stop" MediaOpened="mediaElement2_MediaOpened" Canvas.Left="10" />
+
+        </Canvas>
+    </Grid>
+</Window>

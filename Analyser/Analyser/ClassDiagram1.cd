@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Analyser.App" Collapsed="true">
+    <Position X="0.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Analyser.Fileproperty" Collapsed="true">
+    <Position X="0.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAABAAAAASAAAAAgAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Fileproperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Analyser.Framedata" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQEAADAAAABAgARBAIAAEAoBYAzOAnMgAAAAEAgAEIA=</HashCode>
+      <FileName>Framedata.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Analyser.KeyframesInfo">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAIAAAACAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>KeyframesInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Analyser.MainWindow">
+    <Position X="1" Y="0.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgQQMEAAAI4sAABABBAgogAAAgAGAACAhgCDIQIAwAE=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Analyser.XMLReader">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAQAEAAAACAAAAAgAAAAAAAAAAEAAAAAAAAAAgAAA=</HashCode>
+      <FileName>XMLReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Analyser.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Analyser.Properties.Settings" Collapsed="true">
+    <Position X="2.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

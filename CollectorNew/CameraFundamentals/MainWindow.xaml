@@ -1,0 +1,15 @@
+﻿<Window x:Class="CameraFundamentals.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        
+        Title="MainWindow" Height="553" Width="1092" Loaded="Window_Loaded" Closing="Window_Closing"
+        xmlns:my="clr-namespace:Microsoft.Samples.Kinect.WpfViewers;assembly=Microsoft.Samples.Kinect.WpfViewers" >
+    <Grid>
+
+        <my:KinectSensorChooser HorizontalAlignment="Left" Margin="341,295,0,0" Name="kinectSensorChooser1" VerticalAlignment="Top" Width="343" Height="207" />
+        <my:KinectColorViewer Width="320" Height="240" Kinect="{Binding ElementName=kinectSensorChooser1, Path=Kinect}" Margin="12,12,738,262"></my:KinectColorViewer>
+        <my:KinectSkeletonViewer Height="240" HorizontalAlignment="Left" Margin="716,12,0,0" Name="kinectSkeletonViewer1" Kinect="{Binding ElementName=kinectSensorChooser1, Path=Kinect}" VerticalAlignment="Top" Width="320"></my:KinectSkeletonViewer>
+        <Button Content="Record" Height="40" HorizontalAlignment="Left" Margin="12,316,0,0" Name="Record" VerticalAlignment="Top" Width="115" Click="Record_Click" />
+        <Button Content="Stop" Height="40" HorizontalAlignment="Left" Margin="170,316,0,0" Name="Stop" VerticalAlignment="Top" Width="115" Click="Stop_Click" />
+    </Grid>
+</Window>
